@@ -1,0 +1,11 @@
+Id,source,latitude,longitude,region,country,admin1,localityName,localityQuality,observationDate,reportingDate,status,disease,serotypes,speciesDescription,sumAtRisk,sumCases,sumDeaths,sumDestroyed,sumSlaughtered,humansGenderDesc,humansAge,humansAffected,humansDeaths
+230399,OIE,-27.9,30.8,Africa,South Africa,KwaZulu-Natal,HPAI_H5N8_2017_019,Exact,17/08/2017,22/08/2017,Confirmed,Influenza - Avian,H5N8 HPAI,"domestic, unspecified bird",248000,12,12,50000,0,,0,,
+230381,OIE,54.837037,73.354155,Europe,Russian Federation,Omskaya Oblast,Novaya Stanica,Exact,16/08/2017,18/08/2017,Confirmed,African swine fever,,"domestic, swine",122,6,1,0,0,,,,
+230333,OIE,-21.07774,30.21162,Africa,Zimbabwe,Masvingo,Mwambe,Exact,16/08/2017,16/08/2017,Confirmed,Foot and mouth disease,,"domestic, cattle",1283,112,0,,7,,,,
+230396,OIE,-26,28.3,Africa,South Africa,Gauteng,HPAI_H5N8_2017_020,Exact,15/08/2017,22/08/2017,Confirmed,Influenza - Avian,H5N8 HPAI,"wild, unspecified bird",,1,1,0,0,,0,,
+230371,OIE,49.2379,17.7002,Europe,Czech Republic,Jihomoravsky,Hvozdná,Exact,15/08/2017,17/08/2017,Confirmed,African swine fever,,"wild, wild boar",,1,1,,,,,,
+230370,OIE,49.2373,17.7008,Europe,Czech Republic,Jihomoravsky,Ostrata,Exact,15/08/2017,17/08/2017,Confirmed,African swine fever,,"wild, wild boar",,1,1,,,,,,
+230395,OIE,-26,28.3,Africa,South Africa,Gauteng,HPAI_H5N8_2017_021,Exact,14/08/2017,22/08/2017,Confirmed,Influenza - Avian,H5N8 HPAI,"domestic, goose",34,19,19,0,0,,0,,
+230367,OIE,47.771608,33.993286,Europe,Ukraine,Dnipropetrovs'ka,Slovyanka,Exact,14/08/2017,17/08/2017,Confirmed,African swine fever,,"domestic, swine",2,2,2,0,0,,,,
+230379,OIE,56.538381,16.119304,Europe,Sweden,Kalmar Laen,Kalmar,Exact,13/08/2017,18/08/2017,Confirmed,Newcastle disease,APMV-I,"domestic, chicken",4000,1600,0,4000,0,,,,
+230394,OIE,-24.6,27.2,Africa,South Africa,Limpopo,HPAI_H5N8_2017_022,Exact,12/08/2017,22/08/2017,Confirmed,Influenza - Avian,H5N8 HPAI,"domestic, unspecified bird",62,5,5,0,0,,,,
